@@ -1,0 +1,762 @@
+{
+    "Computadoras y Periféricos": {
+        "id": 1,
+        "slug": "c",
+        "parent": 0
+    },
+    "1.3. Monitores": {
+        "id": 2,
+        "slug": "co",
+        "parent": 1
+    },
+    "Monitores Gaming": {
+        "id": 3,
+        "slug": "com",
+        "parent": 2
+    },
+    "Componentes Informáticos": {
+        "id": 4,
+        "slug": "c",
+        "parent": 0
+    },
+    "5.5. Almacenamiento": {
+        "id": 5,
+        "slug": "co",
+        "parent": 4
+    },
+    "Unidades Ópticas": {
+        "id": 6,
+        "slug": "com",
+        "parent": 5
+    },
+    "Redes y Comunicaciones": {
+        "id": 7,
+        "slug": "r",
+        "parent": 0
+    },
+    "2.1. Routers y Switches": {
+        "id": 8,
+        "slug": "re",
+        "parent": 7
+    },
+    "Routers Mesh": {
+        "id": 9,
+        "slug": "red",
+        "parent": 8
+    },
+    "Repuestos y Accesorios": {
+        "id": 10,
+        "slug": "r",
+        "parent": 0
+    },
+    "6.1. Repuestos para Laptops y PCs": {
+        "id": 11,
+        "slug": "re",
+        "parent": 10
+    },
+    "Teclados y Touchpads": {
+        "id": 12,
+        "slug": "rep",
+        "parent": 11
+    },
+    "SSD (SATA, NVMe)": {
+        "id": 13,
+        "slug": "com",
+        "parent": 5
+    },
+    "Colectores de Datos": {
+        "id": 14,
+        "slug": "c",
+        "parent": 0
+    },
+    "8.1. Lectores de Códigos de Barras": {
+        "id": 15,
+        "slug": "co",
+        "parent": 14
+    },
+    "Lectores 1D y 2D": {
+        "id": 16,
+        "slug": "col",
+        "parent": 15
+    },
+    "Licenciamiento y Servicios en la Nube": {
+        "id": 17,
+        "slug": "l",
+        "parent": 0
+    },
+    "4.3. Microsoft Azure": {
+        "id": 18,
+        "slug": "li",
+        "parent": 17
+    },
+    "Bases de Datos": {
+        "id": 19,
+        "slug": "lic",
+        "parent": 18
+    },
+    "Monitores Ultrawide": {
+        "id": 20,
+        "slug": "com",
+        "parent": 2
+    },
+    "Gaming": {
+        "id": 21,
+        "slug": "g",
+        "parent": 0
+    },
+    "11.3. Periféricos Gaming": {
+        "id": 22,
+        "slug": "ga",
+        "parent": 21
+    },
+    "Teclados Gaming": {
+        "id": 23,
+        "slug": "gam",
+        "parent": 22
+    },
+    "Impresoras y Consumibles": {
+        "id": 24,
+        "slug": "i",
+        "parent": 0
+    },
+    "7.1. Impresoras Térmicas de Etiquetas": {
+        "id": 25,
+        "slug": "im",
+        "parent": 24
+    },
+    "Impresoras de Sobremesa": {
+        "id": 26,
+        "slug": "imp",
+        "parent": 25
+    },
+    "7.5. Consumibles para Impresoras": {
+        "id": 27,
+        "slug": "im",
+        "parent": 24
+    },
+    "Papel Fotográfico": {
+        "id": 28,
+        "slug": "imp",
+        "parent": 27
+    },
+    "Cartuchos de Tinta": {
+        "id": 29,
+        "slug": "imp",
+        "parent": 27
+    },
+    "4.2. Servicios Microsoft 365": {
+        "id": 30,
+        "slug": "li",
+        "parent": 17
+    },
+    "SharePoint Online": {
+        "id": 31,
+        "slug": "lic",
+        "parent": 30
+    },
+    "11.2. Componentes Gaming RGB": {
+        "id": 32,
+        "slug": "ga",
+        "parent": 21
+    },
+    "Sistemas de Refrigeración con RGB": {
+        "id": 33,
+        "slug": "gam",
+        "parent": 32
+    },
+    "Cargadores": {
+        "id": 34,
+        "slug": "rep",
+        "parent": 11
+    },
+    "Pantallas LCD/LED": {
+        "id": 35,
+        "slug": "rep",
+        "parent": 11
+    },
+    "Lectores de Mano": {
+        "id": 36,
+        "slug": "col",
+        "parent": 15
+    },
+    "Almacenamiento en la Nube": {
+        "id": 37,
+        "slug": "lic",
+        "parent": 18
+    },
+    "Lentes": {
+        "id": 38,
+        "slug": "l",
+        "parent": 0
+    },
+    "8.3. Consumibles Fotográficos": {
+        "id": 39,
+        "slug": "le",
+        "parent": 38
+    },
+    "Baterías y Cargadores": {
+        "id": 40,
+        "slug": "len",
+        "parent": 39
+    },
+    "Materiales de Oficina": {
+        "id": 41,
+        "slug": "m",
+        "parent": 0
+    },
+    "10.1. Papelería": {
+        "id": 42,
+        "slug": "ma",
+        "parent": 41
+    },
+    "Papel A4": {
+        "id": 43,
+        "slug": "mat",
+        "parent": 42
+    },
+    "1.4. Accesorios de Computadoras": {
+        "id": 44,
+        "slug": "co",
+        "parent": 1
+    },
+    "Teclados y Ratones": {
+        "id": 45,
+        "slug": "com",
+        "parent": 44
+    },
+    "OneDrive for Business": {
+        "id": 46,
+        "slug": "lic",
+        "parent": 30
+    },
+    "Fotografía Instantánea y Digital Profesional": {
+        "id": 47,
+        "slug": "f",
+        "parent": 0
+    },
+    "8.1. Cámaras Fotográficas": {
+        "id": 48,
+        "slug": "fo",
+        "parent": 47
+    },
+    "Cámaras Instantáneas": {
+        "id": 49,
+        "slug": "fot",
+        "parent": 48
+    },
+    "4.1. Licenciamiento Microsoft": {
+        "id": 50,
+        "slug": "li",
+        "parent": 17
+    },
+    "Windows Server": {
+        "id": 51,
+        "slug": "lic",
+        "parent": 50
+    },
+    "6.2. Repuestos para Impresoras": {
+        "id": 52,
+        "slug": "re",
+        "parent": 10
+    },
+    "Cintas": {
+        "id": 53,
+        "slug": "rep",
+        "parent": 52
+    },
+    "1.1. Laptops": {
+        "id": 54,
+        "slug": "co",
+        "parent": 1
+    },
+    "Laptops Domésticas": {
+        "id": 55,
+        "slug": "com",
+        "parent": 54
+    },
+    "Servidores y Almacenamiento": {
+        "id": 56,
+        "slug": "s",
+        "parent": 0
+    },
+    "3.1. Servidores": {
+        "id": 57,
+        "slug": "se",
+        "parent": 56
+    },
+    "Servidores Torre": {
+        "id": 58,
+        "slug": "ser",
+        "parent": 57
+    },
+    "Fundas y Mochilas para Cámaras": {
+        "id": 59,
+        "slug": "len",
+        "parent": 39
+    },
+    "7.3. Consumibles para Impresoras Térmicas": {
+        "id": 60,
+        "slug": "im",
+        "parent": 24
+    },
+    "Ribbons para Impresoras de Etiquetas": {
+        "id": 61,
+        "slug": "imp",
+        "parent": 60
+    },
+    "3.3. Almacenamiento": {
+        "id": 62,
+        "slug": "se",
+        "parent": 56
+    },
+    "NAS (Network Attached Storage)": {
+        "id": 63,
+        "slug": "ser",
+        "parent": 62
+    },
+    "7.4. Impresoras Comunes y Multifuncionales": {
+        "id": 64,
+        "slug": "im",
+        "parent": 24
+    },
+    "Láser": {
+        "id": 65,
+        "slug": "imp",
+        "parent": 64
+    },
+    "Toner": {
+        "id": 66,
+        "slug": "imp",
+        "parent": 27
+    },
+    "5.6. Fuentes de Alimentación": {
+        "id": 67,
+        "slug": "co",
+        "parent": 4
+    },
+    "PSU (Power Supply Unit)": {
+        "id": 68,
+        "slug": "com",
+        "parent": 67
+    },
+    "Auriculares con Iluminación": {
+        "id": 69,
+        "slug": "gam",
+        "parent": 22
+    },
+    "11.1. Consolas y Juegos": {
+        "id": 70,
+        "slug": "ga",
+        "parent": 21
+    },
+    "Juegos Físicos": {
+        "id": 71,
+        "slug": "gam",
+        "parent": 70
+    },
+    "2.3. Accesorios de Redes": {
+        "id": 72,
+        "slug": "re",
+        "parent": 7
+    },
+    "Antenas Wi-Fi": {
+        "id": 73,
+        "slug": "red",
+        "parent": 72
+    },
+    "5.1. Procesadores": {
+        "id": 74,
+        "slug": "co",
+        "parent": 4
+    },
+    "AMD": {
+        "id": 75,
+        "slug": "com",
+        "parent": 74
+    },
+    "7.2. Impresoras Térmicas de Rollo": {
+        "id": 76,
+        "slug": "im",
+        "parent": 24
+    },
+    "Impresoras de Boletas": {
+        "id": 77,
+        "slug": "imp",
+        "parent": 76
+    },
+    "Impresoras Industriales": {
+        "id": 78,
+        "slug": "imp",
+        "parent": 25
+    },
+    "Monitores Profesionales": {
+        "id": 79,
+        "slug": "com",
+        "parent": 2
+    },
+    "Laptops Empresariales": {
+        "id": 80,
+        "slug": "com",
+        "parent": 54
+    },
+    "Servidores Rack": {
+        "id": 81,
+        "slug": "ser",
+        "parent": 57
+    },
+    "Routers Wi-Fi": {
+        "id": 82,
+        "slug": "red",
+        "parent": 8
+    },
+    "Blade Servers": {
+        "id": 83,
+        "slug": "ser",
+        "parent": 57
+    },
+    "10.2. Materiales de Escritura": {
+        "id": 84,
+        "slug": "ma",
+        "parent": 41
+    },
+    "Bolígrafo": {
+        "id": 85,
+        "slug": "mat",
+        "parent": 84
+    },
+    "1.2. PCs de Escritorio": {
+        "id": 86,
+        "slug": "co",
+        "parent": 1
+    },
+    "Small From Factor": {
+        "id": 87,
+        "slug": "com",
+        "parent": 86
+    },
+    "Nintendo Switch": {
+        "id": 88,
+        "slug": "gam",
+        "parent": 70
+    },
+    "Estaciones de Trabajo": {
+        "id": 89,
+        "slug": "com",
+        "parent": 86
+    },
+    "Impresoras Móviles": {
+        "id": 90,
+        "slug": "imp",
+        "parent": 25
+    },
+    "Chorro de Tinta Continuo": {
+        "id": 91,
+        "slug": "imp",
+        "parent": 64
+    },
+    "Plotters": {
+        "id": 92,
+        "slug": "imp",
+        "parent": 64
+    },
+    "5.7. Gabinetes y Refrigeración": {
+        "id": 93,
+        "slug": "co",
+        "parent": 4
+    },
+    "Ventiladores y Enfriamiento Líquido": {
+        "id": 94,
+        "slug": "com",
+        "parent": 93
+    },
+    "Multifuncionales (Impresora, Escáner, Copiadora)": {
+        "id": 95,
+        "slug": "imp",
+        "parent": 64
+    },
+    "Bases de Enfriamiento": {
+        "id": 96,
+        "slug": "com",
+        "parent": 44
+    },
+    "Switches Gestionables y No Gestionables": {
+        "id": 97,
+        "slug": "red",
+        "parent": 8
+    },
+    "Gabinetes con Iluminación RGB": {
+        "id": 98,
+        "slug": "gam",
+        "parent": 32
+    },
+    "Cables de Red (UTP, FTP)": {
+        "id": 99,
+        "slug": "red",
+        "parent": 72
+    },
+    "Papel Especial para Plotters": {
+        "id": 100,
+        "slug": "imp",
+        "parent": 27
+    },
+    "5.4. Memorias RAM": {
+        "id": 101,
+        "slug": "co",
+        "parent": 4
+    },
+    "DDR5": {
+        "id": 102,
+        "slug": "com",
+        "parent": 101
+    },
+    "Cámaras Web": {
+        "id": 103,
+        "slug": "com",
+        "parent": 44
+    },
+    "5.2. Tarjetas Gráficas": {
+        "id": 104,
+        "slug": "co",
+        "parent": 4
+    },
+    "Ink Jet": {
+        "id": 105,
+        "slug": "imp",
+        "parent": 64
+    },
+    "Papel Fotocopia": {
+        "id": 106,
+        "slug": "mat",
+        "parent": 42
+    },
+    "Microsoft Exchange": {
+        "id": 107,
+        "slug": "lic",
+        "parent": 30
+    },
+    "Películas para Cámaras Instantáneas": {
+        "id": 108,
+        "slug": "len",
+        "parent": 39
+    },
+    "Cámaras Digitales Profesionales": {
+        "id": 109,
+        "slug": "fot",
+        "parent": 48
+    },
+    "UPS (Uninterruptible Power Supply)": {
+        "id": 110,
+        "slug": "com",
+        "parent": 67
+    },
+    "8.2. Colectores de Datos Portátiles": {
+        "id": 111,
+        "slug": "co",
+        "parent": 14
+    },
+    "PDA (Personal Digital Assistant)": {
+        "id": 112,
+        "slug": "col",
+        "parent": 111
+    },
+    "NVIDIA": {
+        "id": 113,
+        "slug": "com",
+        "parent": 104
+    },
+    "Impresoras Portátiles": {
+        "id": 114,
+        "slug": "imp",
+        "parent": 76
+    },
+    "Impresoras de Tickets": {
+        "id": 115,
+        "slug": "imp",
+        "parent": 76
+    },
+    "Xbox": {
+        "id": 116,
+        "slug": "gam",
+        "parent": 70
+    },
+    "Terminales de Mano Rugerizadas": {
+        "id": 117,
+        "slug": "col",
+        "parent": 111
+    },
+    "Chromebooks": {
+        "id": 118,
+        "slug": "com",
+        "parent": 54
+    },
+    "Laptops Gaming": {
+        "id": 119,
+        "slug": "com",
+        "parent": 54
+    },
+    "SQL Server": {
+        "id": 120,
+        "slug": "lic",
+        "parent": 50
+    },
+    "Intel": {
+        "id": 121,
+        "slug": "com",
+        "parent": 74
+    },
+    "Tarjetas de Memoria para Cámaras Digitales": {
+        "id": 122,
+        "slug": "len",
+        "parent": 39
+    },
+    "Servicios de IA": {
+        "id": 123,
+        "slug": "lic",
+        "parent": 18
+    },
+    "Gabinetes ATX": {
+        "id": 124,
+        "slug": "com",
+        "parent": 93
+    },
+    "Unidades de Disco (HDD, SSD, NVMe)": {
+        "id": 125,
+        "slug": "ser",
+        "parent": 62
+    },
+    "Microsoft Office": {
+        "id": 126,
+        "slug": "lic",
+        "parent": 50
+    },
+    "2 en 1": {
+        "id": 127,
+        "slug": "com",
+        "parent": 54
+    },
+    "Máquinas Virtuales": {
+        "id": 128,
+        "slug": "lic",
+        "parent": 18
+    },
+    "Adaptadores y Repetidores": {
+        "id": 129,
+        "slug": "red",
+        "parent": 72
+    },
+    "Ratones Gaming": {
+        "id": 130,
+        "slug": "gam",
+        "parent": 22
+    },
+    "Rodillos de Transferencia": {
+        "id": 131,
+        "slug": "rep",
+        "parent": 52
+    },
+    "Mini PCs": {
+        "id": 132,
+        "slug": "com",
+        "parent": 86
+    },
+    "Baterías": {
+        "id": 133,
+        "slug": "rep",
+        "parent": 11
+    },
+    "Cabezales de Impresión": {
+        "id": 134,
+        "slug": "rep",
+        "parent": 52
+    },
+    "SAN (Storage Area Network)": {
+        "id": 135,
+        "slug": "ser",
+        "parent": 62
+    },
+    "Sobres": {
+        "id": 136,
+        "slug": "mat",
+        "parent": 42
+    },
+    "Etiquetas Adhesivas": {
+        "id": 137,
+        "slug": "imp",
+        "parent": 60
+    },
+    "Firewalls y UTM": {
+        "id": 138,
+        "slug": "red",
+        "parent": 72
+    },
+    "Cartuchos de Tinta y Toner": {
+        "id": 139,
+        "slug": "rep",
+        "parent": 52
+    },
+    "HDD (SATA)": {
+        "id": 140,
+        "slug": "com",
+        "parent": 5
+    },
+    "Sillas Gaming y Mesas Especializadas": {
+        "id": 141,
+        "slug": "gam",
+        "parent": 22
+    },
+    "DDR4": {
+        "id": 142,
+        "slug": "com",
+        "parent": 101
+    },
+    "Lectores Fijos": {
+        "id": 143,
+        "slug": "col",
+        "parent": 15
+    },
+    "PlayStation": {
+        "id": 144,
+        "slug": "gam",
+        "parent": 70
+    },
+    "Fuentes de Alimentación RGB": {
+        "id": 145,
+        "slug": "gam",
+        "parent": 32
+    },
+    "Windows 10/11": {
+        "id": 146,
+        "slug": "lic",
+        "parent": 50
+    },
+    "Fundas y Maletines": {
+        "id": 147,
+        "slug": "com",
+        "parent": 44
+    },
+    "All-in-One": {
+        "id": 148,
+        "slug": "com",
+        "parent": 86
+    },
+    "Micrófonos y Auriculares": {
+        "id": 149,
+        "slug": "com",
+        "parent": 44
+    },
+    "Microsoft Teams": {
+        "id": 150,
+        "slug": "lic",
+        "parent": 30
+    },
+    "Mouse Pad Gaming": {
+        "id": 151,
+        "slug": "gam",
+        "parent": 22
+    },
+    "Rollos de Papel Térmico": {
+        "id": 152,
+        "slug": "imp",
+        "parent": 60
+    }
+}

@@ -1,0 +1,706 @@
+product_name,in_json,in_csv,json_category,csv_category,mapped_category,mapped_subcategory,mapped_sub_subcategory,category_confidence,match_score
+,True,False,,,Repuestos y Accesorios,6.1. Repuestos para Laptops y PCs,* Pantallas LCD/LED,0.24953266536029214,0
+,True,False,,,Gaming,11.3. Periféricos Gaming,* Mouse Pad Gaming,0.4467767391612683,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.2. Colectores de Datos Portátiles,* PDA (Personal Digital Assistant),0.3520077633291835,0
+,True,False,,,Componentes Informáticos,5.5. Almacenamiento,* HDD (SATA),0.26560049712176526,0
+,True,False,,,Gaming,11.1. Consolas y Juegos,* Nintendo Switch,0.18856168180923394,0
+,True,False,,,Computadoras y Periféricos,1.4. Accesorios de Computadoras,* Cámaras Web,0.3228638801823729,0
+,True,False,,,Computadoras y Periféricos,1.4. Accesorios de Computadoras,* Micrófonos y Auriculares,0.37030311231178054,0
+,True,False,,,Computadoras y Periféricos,1.4. Accesorios de Computadoras,* Micrófonos y Auriculares,0.37030311231178054,0
+,True,False,,,Computadoras y Periféricos,1.4. Accesorios de Computadoras,* Micrófonos y Auriculares,0.37030311231178054,0
+,True,False,,,Computadoras y Periféricos,1.4. Accesorios de Computadoras,* Micrófonos y Auriculares,0.37030311231178054,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Adaptadores y Repetidores,0.28171752885128826,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Adaptadores y Repetidores,0.28171752885128826,0
+,True,False,,,Materiales de Oficina,10.2. Materiales de Escritura,* Bolígrafo,0.2690057497386273,0
+,True,False,,,Materiales de Oficina,10.2. Materiales de Escritura,* Bolígrafo,0.4362162938864829,0
+,True,False,,,Materiales de Oficina,10.2. Materiales de Escritura,* Bolígrafo,0.21749318455197983,0
+,True,False,,,Colectores de Datos,8.2. Colectores de Datos Portátiles,* PDA (Personal Digital Assistant),0.2528814875829974,0
+,True,False,,,Servidores y Almacenamiento,3.3. Almacenamiento,* NAS (Network Attached Storage),0.33233411594177764,0
+,True,False,,,Servidores y Almacenamiento,3.3. Almacenamiento,* NAS (Network Attached Storage),0.33233411594177764,0
+,True,False,,,Materiales de Oficina,10.2. Materiales de Escritura,* Bolígrafo,0.2530711728218717,0
+,True,False,,,Computadoras y Periféricos,1.4. Accesorios de Computadoras,* Teclados y Ratones,0.31476292879456697,0
+,True,False,,,Materiales de Oficina,10.1. Papelería,* Papel A4,0.3164694484385051,0
+,True,False,,,Redes y Comunicaciones,2.1. Routers y Switches,* Switches Gestionables y No Gestionables,0.23567121321712,0
+,True,False,,,Redes y Comunicaciones,2.1. Routers y Switches,* Switches Gestionables y No Gestionables,0.23567121321712,0
+,True,False,,,Materiales de Oficina,10.1. Papelería,* Papel A4,0.3338280816457518,0
+,True,False,,,Impresoras y Consumibles,7.3. Consumibles para Impresoras Térmicas,* Rollos de Papel Térmico,0.46687040811091096,0
+,True,False,,,Impresoras y Consumibles,7.4. Impresoras Comunes y Multifuncionales,* Ink Jet,0.39418609347758815,0
+,True,False,,,Materiales de Oficina,10.1. Papelería,* Papel A4,0.3164694484385051,0
+,True,False,,,Materiales de Oficina,10.1. Papelería,* Papel A4,0.4475956129917709,0
+,True,False,,,Componentes Informáticos,5.5. Almacenamiento,* Unidades Ópticas,0.3455820980901718,0
+,True,False,,,Materiales de Oficina,10.1. Papelería,* Papel Fotocopia,0.5077539171547263,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores de Mano,0.25179925655040253,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* Mini PCs,0.4458900797765478,0
+,True,False,,,Gaming,11.3. Periféricos Gaming,* Mouse Pad Gaming,0.2602470000579693,0
+,True,False,,,Gaming,11.3. Periféricos Gaming,* Mouse Pad Gaming,0.2602470000579693,0
+,True,False,,,Gaming,11.3. Periféricos Gaming,* Mouse Pad Gaming,0.2602470000579693,0
+,True,False,,,Materiales de Oficina,10.2. Materiales de Escritura,* Bolígrafo,0.505120476976917,0
+,True,False,,,Gaming,11.3. Periféricos Gaming,* Mouse Pad Gaming,0.6494924122832858,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* All-in-One,0.390422097744256,0
+,True,False,,,Servidores y Almacenamiento,3.3. Almacenamiento,* SAN (Storage Area Network),0.25579390327008883,0
+,True,False,,,Componentes Informáticos,5.5. Almacenamiento,* HDD (SATA),0.22685357810275536,0
+,True,False,,,Repuestos y Accesorios,6.2. Repuestos para Impresoras,* Cabezales de Impresión,0.2594077378953738,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* All-in-One,0.27814392367031654,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Materiales de Oficina,10.2. Materiales de Escritura,* Bolígrafo,0.457554469928777,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* All-in-One,0.2254257701240308,0
+,True,False,,,Componentes Informáticos,5.1. Procesadores,* Intel,0.39767433108904027,0
+,True,False,,,Computadoras y Periféricos,1.4. Accesorios de Computadoras,* Cámaras Web,0.2408737966378142,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Servidores y Almacenamiento,3.3. Almacenamiento,* NAS (Network Attached Storage),0.33233411594177764,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Licenciamiento y Servicios en la Nube,4.3. Microsoft Azure,* Máquinas Virtuales,0.261528788100652,0
+,True,False,,,Redes y Comunicaciones,2.1. Routers y Switches,* Switches Gestionables y No Gestionables,0.29661105356299855,0
+,True,False,,,Gaming,11.1. Consolas y Juegos,* Nintendo Switch,0.5963483304008964,0
+,True,False,,,Servidores y Almacenamiento,3.1. Servidores,* Servidores Rack,0.5486161137817904,0
+,True,False,,,Componentes Informáticos,5.5. Almacenamiento,* HDD (SATA),0.31491070350585915,0
+,True,False,,,Computadoras y Periféricos,1.1. Laptops,* 2 en 1,0.4839975416841019,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Servidores y Almacenamiento,3.3. Almacenamiento,"* Unidades de Disco (HDD, SSD, NVMe)",0.306983964745846,0
+,True,False,,,Materiales de Oficina,10.2. Materiales de Escritura,* Bolígrafo,0.3524925827513541,0
+,True,False,,,Repuestos y Accesorios,6.1. Repuestos para Laptops y PCs,* Pantallas LCD/LED,0.31934783708779885,0
+,True,False,,,Servidores y Almacenamiento,3.1. Servidores,* Servidores Rack,0.4141825162745249,0
+,True,False,,,Servidores y Almacenamiento,3.1. Servidores,* Servidores Rack,0.4311329573985709,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* Mini PCs,0.3763548912402166,0
+,True,False,,,Computadoras y Periféricos,1.4. Accesorios de Computadoras,* Micrófonos y Auriculares,0.37030311231178054,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Servidores y Almacenamiento,3.1. Servidores,* Servidores Rack,0.7257131524240569,0
+,True,False,,,Repuestos y Accesorios,6.1. Repuestos para Laptops y PCs,* Pantallas LCD/LED,0.2739718349306217,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Lentes,8.3. Consumibles Fotográficos,* Tarjetas de Memoria para Cámaras Digitales,0.31366875354166346,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Licenciamiento y Servicios en la Nube,4.1. Licenciamiento Microsoft,* Windows Server,0.249490462823503,0
+,True,False,,,Gaming,11.3. Periféricos Gaming,* Mouse Pad Gaming,0.30100952356740085,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Repuestos y Accesorios,6.2. Repuestos para Impresoras,* Cabezales de Impresión,0.2594077378953738,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Impresoras y Consumibles,7.3. Consumibles para Impresoras Térmicas,* Etiquetas Adhesivas,0.23424014210094596,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Impresoras y Consumibles,7.4. Impresoras Comunes y Multifuncionales,* Chorro de Tinta Continuo,0.3140412335425939,0
+,True,False,,,Lentes,8.3. Consumibles Fotográficos,* Tarjetas de Memoria para Cámaras Digitales,0.2611236153228683,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Antenas Wi-Fi,0.49970526508153,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,"* Cables de Red (UTP, FTP)",0.20163863739086815,0
+,True,False,,,Impresoras y Consumibles,7.5. Consumibles para Impresoras,* Papel Fotográfico,0.27589155416860867,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Antenas Wi-Fi,0.5164367054555302,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Antenas Wi-Fi,0.3899299928878964,0
+,True,False,,,Computadoras y Periféricos,1.3. Monitores,* Monitores Ultrawide,0.4882885113867688,0
+,True,False,,,Computadoras y Periféricos,1.4. Accesorios de Computadoras,* Micrófonos y Auriculares,0.4022443543593534,0
+,True,False,,,Computadoras y Periféricos,1.1. Laptops,* 2 en 1,0.37997520719902705,0
+,True,False,,,Componentes Informáticos,5.6. Fuentes de Alimentación,* PSU (Power Supply Unit),0.25770064403319726,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Computadoras y Periféricos,1.1. Laptops,* 2 en 1,0.3297366109954506,0
+,True,False,,,Redes y Comunicaciones,2.1. Routers y Switches,* Switches Gestionables y No Gestionables,0.32117258145590194,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Adaptadores y Repetidores,0.20992036380129636,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Gaming,11.3. Periféricos Gaming,* Mouse Pad Gaming,0.32328187687176535,0
+,True,False,,,Materiales de Oficina,10.2. Materiales de Escritura,* Bolígrafo,0.2730926904505604,0
+,True,False,,,Materiales de Oficina,10.2. Materiales de Escritura,* Bolígrafo,0.2730926904505604,0
+,True,False,,,Redes y Comunicaciones,2.1. Routers y Switches,* Switches Gestionables y No Gestionables,0.22731864222284934,0
+,True,False,,,Redes y Comunicaciones,2.1. Routers y Switches,* Switches Gestionables y No Gestionables,0.22731864222284934,0
+,True,False,,,Redes y Comunicaciones,2.1. Routers y Switches,* Switches Gestionables y No Gestionables,0.22731864222284934,0
+,True,False,,,Materiales de Oficina,10.2. Materiales de Escritura,* Bolígrafo,0.2730926904505604,0
+,True,False,,,Materiales de Oficina,10.2. Materiales de Escritura,* Bolígrafo,0.2730926904505604,0
+,True,False,,,Materiales de Oficina,10.2. Materiales de Escritura,* Bolígrafo,0.2730926904505604,0
+,True,False,,,Redes y Comunicaciones,2.1. Routers y Switches,* Switches Gestionables y No Gestionables,0.28893141244457843,0
+,True,False,,,Redes y Comunicaciones,2.1. Routers y Switches,* Switches Gestionables y No Gestionables,0.2966110535629986,0
+,True,False,,,Redes y Comunicaciones,2.1. Routers y Switches,* Switches Gestionables y No Gestionables,0.2720474401403819,0
+,True,False,,,Computadoras y Periféricos,1.1. Laptops,* 2 en 1,0.4839975416841019,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* All-in-One,0.20322191602615536,0
+,True,False,,,Materiales de Oficina,10.2. Materiales de Escritura,* Bolígrafo,0.40397445730731435,0
+,True,False,,,Computadoras y Periféricos,1.1. Laptops,* 2 en 1,0.4074422099758541,0
+,True,False,,,Impresoras y Consumibles,7.4. Impresoras Comunes y Multifuncionales,* Chorro de Tinta Continuo,0.26322847938778593,0
+,True,False,,,Impresoras y Consumibles,7.4. Impresoras Comunes y Multifuncionales,* Chorro de Tinta Continuo,0.26322847938778593,0
+,True,False,,,Componentes Informáticos,5.5. Almacenamiento,* HDD (SATA),0.3290179100258747,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Redes y Comunicaciones,2.1. Routers y Switches,* Switches Gestionables y No Gestionables,0.3041582846293494,0
+,True,False,,,Redes y Comunicaciones,2.1. Routers y Switches,* Switches Gestionables y No Gestionables,0.22731864222284934,0
+,True,False,,,Redes y Comunicaciones,2.1. Routers y Switches,* Switches Gestionables y No Gestionables,0.22731864222284934,0
+,True,False,,,Redes y Comunicaciones,2.1. Routers y Switches,* Switches Gestionables y No Gestionables,0.22731864222284934,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Adaptadores y Repetidores,0.2500213113253382,0
+,True,False,,,Servidores y Almacenamiento,3.3. Almacenamiento,* NAS (Network Attached Storage),0.33233411594177764,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Adaptadores y Repetidores,0.2500213113253382,0
+,True,False,,,Materiales de Oficina,10.2. Materiales de Escritura,* Bolígrafo,0.32449229128138546,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* All-in-One,0.20322191602615536,0
+,True,False,,,Redes y Comunicaciones,2.1. Routers y Switches,* Switches Gestionables y No Gestionables,0.25130802918952394,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* All-in-One,0.20322191602615536,0
+,True,False,,,Repuestos y Accesorios,6.2. Repuestos para Impresoras,* Cabezales de Impresión,0.41493129048502986,0
+,True,False,,,Repuestos y Accesorios,6.2. Repuestos para Impresoras,* Cabezales de Impresión,0.3921974255421414,0
+,True,False,,,Repuestos y Accesorios,6.2. Repuestos para Impresoras,* Cabezales de Impresión,0.29563484597612427,0
+,True,False,,,Computadoras y Periféricos,1.1. Laptops,* 2 en 1,0.4839975416841019,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Computadoras y Periféricos,1.1. Laptops,* 2 en 1,0.4839975416841019,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Lentes,8.3. Consumibles Fotográficos,* Tarjetas de Memoria para Cámaras Digitales,0.20098718732925872,0
+,True,False,,,Repuestos y Accesorios,6.2. Repuestos para Impresoras,* Rodillos de Transferencia,0.2813570513180938,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Licenciamiento y Servicios en la Nube,4.3. Microsoft Azure,* Almacenamiento en la Nube,0.3141829353122553,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Antenas Wi-Fi,0.3846569173363927,0
+,True,False,,,Repuestos y Accesorios,6.2. Repuestos para Impresoras,* Cabezales de Impresión,0.19953063887209904,0
+,True,False,,,Repuestos y Accesorios,6.2. Repuestos para Impresoras,* Cabezales de Impresión,0.19953063887209904,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Repuestos y Accesorios,6.2. Repuestos para Impresoras,* Cabezales de Impresión,0.2333644844528592,0
+,True,False,,,Repuestos y Accesorios,6.2. Repuestos para Impresoras,* Cabezales de Impresión,0.22448781442161073,0
+,True,False,,,Servidores y Almacenamiento,3.3. Almacenamiento,* SAN (Storage Area Network),0.297539055786186,0
+,True,False,,,Computadoras y Periféricos,1.1. Laptops,* 2 en 1,0.30642456735943346,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.24757086798161065,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.24757086798161065,0
+,True,False,,,Componentes Informáticos,5.6. Fuentes de Alimentación,* PSU (Power Supply Unit),0.2144303345212779,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Licenciamiento y Servicios en la Nube,4.1. Licenciamiento Microsoft,* Windows 10/11,0.3301128913361414,0
+,True,False,,,Repuestos y Accesorios,6.2. Repuestos para Impresoras,* Cabezales de Impresión,0.24622550698065693,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Gaming,11.2. Componentes Gaming RGB,* Fuentes de Alimentación RGB,0.24907220480524256,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,"* Cables de Red (UTP, FTP)",0.30941950886256725,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Componentes Informáticos,5.2. Tarjetas Gráficas,* NVIDIA,0.2670576513317458,0
+,True,False,,,Componentes Informáticos,5.7. Gabinetes y Refrigeración,* Ventiladores y Enfriamiento Líquido,0.3883766723274092,0
+,True,False,,,Componentes Informáticos,5.6. Fuentes de Alimentación,* PSU (Power Supply Unit),0.4543790538878378,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Antenas Wi-Fi,0.35889750538323956,0
+,True,False,,,Computadoras y Periféricos,1.4. Accesorios de Computadoras,* Micrófonos y Auriculares,0.4022443543593534,0
+,True,False,,,Computadoras y Periféricos,1.4. Accesorios de Computadoras,* Micrófonos y Auriculares,0.4022443543593534,0
+,True,False,,,Colectores de Datos,8.2. Colectores de Datos Portátiles,* PDA (Personal Digital Assistant),0.23162117208027286,0
+,True,False,,,Computadoras y Periféricos,1.1. Laptops,* 2 en 1,0.3319504664610979,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,"* Cables de Red (UTP, FTP)",0.29062650136252144,0
+,True,False,,,Servidores y Almacenamiento,3.1. Servidores,* Servidores Rack,0.2886851893204741,0
+,True,False,,,Licenciamiento y Servicios en la Nube,4.2. Servicios Microsoft 365,* OneDrive for Business,0.236914077523127,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Licenciamiento y Servicios en la Nube,4.3. Microsoft Azure,* Servicios de IA,0.19516032567469987,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Computadoras y Periféricos,1.1. Laptops,* 2 en 1,0.24918390559956127,0
+,True,False,,,Servidores y Almacenamiento,3.3. Almacenamiento,"* Unidades de Disco (HDD, SSD, NVMe)",0.21941781674542576,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* Estaciones de Trabajo,0.390422097744256,0
+,True,False,,,Repuestos y Accesorios,6.2. Repuestos para Impresoras,* Cabezales de Impresión,0.21633662434318,0
+,True,False,,,Componentes Informáticos,5.2. Tarjetas Gráficas,* NVIDIA,0.22196224243229065,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Redes y Comunicaciones,2.1. Routers y Switches,* Switches Gestionables y No Gestionables,0.3041582846293494,0
+,True,False,,,Redes y Comunicaciones,2.1. Routers y Switches,* Switches Gestionables y No Gestionables,0.3041582846293494,0
+,True,False,,,Redes y Comunicaciones,2.1. Routers y Switches,* Switches Gestionables y No Gestionables,0.3041582846293494,0
+,True,False,,,Redes y Comunicaciones,2.1. Routers y Switches,* Switches Gestionables y No Gestionables,0.3041582846293494,0
+,True,False,,,Redes y Comunicaciones,2.1. Routers y Switches,* Switches Gestionables y No Gestionables,0.3041582846293494,0
+,True,False,,,Redes y Comunicaciones,2.1. Routers y Switches,* Switches Gestionables y No Gestionables,0.3041582846293494,0
+,True,False,,,Redes y Comunicaciones,2.1. Routers y Switches,* Switches Gestionables y No Gestionables,0.3041582846293494,0
+,True,False,,,Redes y Comunicaciones,2.1. Routers y Switches,* Switches Gestionables y No Gestionables,0.3041582846293494,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Antenas Wi-Fi,0.3593422990543347,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Antenas Wi-Fi,0.3593422990543347,0
+,True,False,,,Componentes Informáticos,5.5. Almacenamiento,* HDD (SATA),0.29212170873640114,0
+,True,False,,,Componentes Informáticos,5.2. Tarjetas Gráficas,* NVIDIA,0.2676560907730441,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* All-in-One,0.3617114630133677,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Antenas Wi-Fi,0.36116133916372234,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Lentes,8.3. Consumibles Fotográficos,* Tarjetas de Memoria para Cámaras Digitales,0.27129756975446956,0
+,True,False,,,Impresoras y Consumibles,7.1. Impresoras Térmicas de Etiquetas,* Impresoras Industriales,0.33035484614288285,0
+,True,False,,,Licenciamiento y Servicios en la Nube,4.2. Servicios Microsoft 365,* OneDrive for Business,0.3061811267216567,0
+,True,False,,,Componentes Informáticos,5.5. Almacenamiento,* HDD (SATA),0.2279585073472541,0
+,True,False,,,Lentes,8.3. Consumibles Fotográficos,* Fundas y Mochilas para Cámaras,0.19948347218534648,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Adaptadores y Repetidores,0.20969180310658103,0
+,True,False,,,Computadoras y Periféricos,1.1. Laptops,* 2 en 1,0.43021816843695676,0
+,True,False,,,Componentes Informáticos,5.6. Fuentes de Alimentación,* PSU (Power Supply Unit),0.23235922171641923,0
+,True,False,,,Materiales de Oficina,10.2. Materiales de Escritura,* Bolígrafo,0.20765979716469946,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Adaptadores y Repetidores,0.23697655203923992,0
+,True,False,,,Componentes Informáticos,5.5. Almacenamiento,* HDD (SATA),0.4396222944670934,0
+,True,False,,,Componentes Informáticos,5.5. Almacenamiento,* HDD (SATA),0.4396222944670934,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Componentes Informáticos,5.5. Almacenamiento,* HDD (SATA),0.4396222944670934,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Componentes Informáticos,5.6. Fuentes de Alimentación,* PSU (Power Supply Unit),0.4543790538878378,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Redes y Comunicaciones,2.1. Routers y Switches,* Switches Gestionables y No Gestionables,0.3041582846293494,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Adaptadores y Repetidores,0.23697655203923992,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Adaptadores y Repetidores,0.20969180310658103,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* All-in-One,0.3617114630133677,0
+,True,False,,,Licenciamiento y Servicios en la Nube,4.2. Servicios Microsoft 365,* OneDrive for Business,0.2600345902226936,0
+,True,False,,,Licenciamiento y Servicios en la Nube,4.2. Servicios Microsoft 365,* OneDrive for Business,0.27612171027526805,0
+,True,False,,,Licenciamiento y Servicios en la Nube,4.2. Servicios Microsoft 365,* OneDrive for Business,0.2600345902226936,0
+,True,False,,,Componentes Informáticos,5.6. Fuentes de Alimentación,* PSU (Power Supply Unit),0.24844448692765495,0
+,True,False,,,Colectores de Datos,8.2. Colectores de Datos Portátiles,* PDA (Personal Digital Assistant),0.18376973931957988,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* All-in-One,0.40871613119388184,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* Mini PCs,0.3471259507189309,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* Mini PCs,0.3471259507189309,0
+,True,False,,,Computadoras y Periféricos,1.4. Accesorios de Computadoras,* Cámaras Web,0.21337275620099805,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* All-in-One,0.25611475561051006,0
+,True,False,,,Computadoras y Periféricos,1.1. Laptops,* 2 en 1,0.4839975416841019,0
+,True,False,,,Lentes,8.3. Consumibles Fotográficos,* Fundas y Mochilas para Cámaras,0.30007771811494593,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,"* Cables de Red (UTP, FTP)",0.2855023966462854,0
+,True,False,,,Computadoras y Periféricos,1.1. Laptops,* 2 en 1,0.28837272891716825,0
+,True,False,,,Componentes Informáticos,5.5. Almacenamiento,* HDD (SATA),0.2051537192722246,0
+,True,False,,,Componentes Informáticos,5.6. Fuentes de Alimentación,* PSU (Power Supply Unit),0.28441649461056523,0
+,True,False,,,Componentes Informáticos,5.6. Fuentes de Alimentación,* PSU (Power Supply Unit),0.28441649461056523,0
+,True,False,,,Componentes Informáticos,5.6. Fuentes de Alimentación,* PSU (Power Supply Unit),0.42810417777659954,0
+,True,False,,,Componentes Informáticos,5.6. Fuentes de Alimentación,* PSU (Power Supply Unit),0.38025390008698906,0
+,True,False,,,Componentes Informáticos,5.6. Fuentes de Alimentación,* PSU (Power Supply Unit),0.3208955211616111,0
+,True,False,,,Componentes Informáticos,5.6. Fuentes de Alimentación,* PSU (Power Supply Unit),0.3970915903737086,0
+,True,False,,,Componentes Informáticos,5.6. Fuentes de Alimentación,* PSU (Power Supply Unit),0.4460747592517746,0
+,True,False,,,Componentes Informáticos,5.6. Fuentes de Alimentación,* PSU (Power Supply Unit),0.46177447732997656,0
+,True,False,,,Componentes Informáticos,5.6. Fuentes de Alimentación,* PSU (Power Supply Unit),0.4510054550393389,0
+,True,False,,,Gaming,11.1. Consolas y Juegos,* Nintendo Switch,0.20530046372062172,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Componentes Informáticos,5.6. Fuentes de Alimentación,* PSU (Power Supply Unit),0.2947055347335641,0
+,True,False,,,Materiales de Oficina,10.1. Papelería,* Sobres,0.24799195299679655,0
+,True,False,,,Redes y Comunicaciones,2.1. Routers y Switches,* Switches Gestionables y No Gestionables,0.23874510184349185,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Servidores y Almacenamiento,3.3. Almacenamiento,* NAS (Network Attached Storage),0.33233411594177764,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Componentes Informáticos,5.4. Memorias RAM,* DDR4,0.2784384361731692,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* All-in-One,0.20322191602615536,0
+,True,False,,,Computadoras y Periféricos,1.1. Laptops,* 2 en 1,0.4839975416841019,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* All-in-One,0.20025268075778352,0
+,True,False,,,Computadoras y Periféricos,1.1. Laptops,* 2 en 1,0.4423611995393955,0
+,True,False,,,Repuestos y Accesorios,6.1. Repuestos para Laptops y PCs,* Pantallas LCD/LED,0.34267702605122635,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* All-in-One,0.2615899793527696,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* All-in-One,0.2572302252495283,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Materiales de Oficina,10.1. Papelería,* Papel A4,0.3129994917662426,0
+,True,False,,,Materiales de Oficina,10.1. Papelería,* Papel A4,0.29555045036048455,0
+,True,False,,,Materiales de Oficina,10.1. Papelería,* Papel A4,0.2933568613189337,0
+,True,False,,,Repuestos y Accesorios,6.2. Repuestos para Impresoras,* Cabezales de Impresión,0.20367234469777684,0
+,True,False,,,Licenciamiento y Servicios en la Nube,4.1. Licenciamiento Microsoft,* Windows 10/11,0.3195254963000377,0
+,True,False,,,Licenciamiento y Servicios en la Nube,4.1. Licenciamiento Microsoft,* Windows 10/11,0.23635197097963354,0
+,True,False,,,Gaming,11.3. Periféricos Gaming,* Mouse Pad Gaming,0.2892468629083977,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Componentes Informáticos,5.5. Almacenamiento,* HDD (SATA),0.28934431275824746,0
+,True,False,,,Computadoras y Periféricos,1.1. Laptops,* 2 en 1,0.3583140821758442,0
+,True,False,,,Computadoras y Periféricos,1.1. Laptops,* 2 en 1,0.32612143562481005,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Servidores y Almacenamiento,3.3. Almacenamiento,"* Unidades de Disco (HDD, SSD, NVMe)",0.39175202280058935,0
+,True,False,,,Servidores y Almacenamiento,3.3. Almacenamiento,"* Unidades de Disco (HDD, SSD, NVMe)",0.2752793808623048,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.2. Colectores de Datos Portátiles,* PDA (Personal Digital Assistant),0.25599339120818115,0
+,True,False,,,Servidores y Almacenamiento,3.1. Servidores,* Servidores Rack,0.2828603779735421,0
+,True,False,,,Componentes Informáticos,5.6. Fuentes de Alimentación,* PSU (Power Supply Unit),0.4571268012938822,0
+,True,False,,,Computadoras y Periféricos,1.4. Accesorios de Computadoras,* Cámaras Web,0.18332032167839143,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Impresoras y Consumibles,7.5. Consumibles para Impresoras,* Toner,0.35465630191904285,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Componentes Informáticos,5.5. Almacenamiento,* HDD (SATA),0.28934431275824746,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Impresoras y Consumibles,7.5. Consumibles para Impresoras,* Toner,0.42127680478776103,0
+,True,False,,,Servidores y Almacenamiento,3.3. Almacenamiento,"* Unidades de Disco (HDD, SSD, NVMe)",0.3376990826461009,0
+,True,False,,,Servidores y Almacenamiento,3.3. Almacenamiento,"* Unidades de Disco (HDD, SSD, NVMe)",0.3429295270786178,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Antenas Wi-Fi,0.3203692309373963,0
+,True,False,,,Componentes Informáticos,5.6. Fuentes de Alimentación,* PSU (Power Supply Unit),0.3774997968987625,0
+,True,False,,,Componentes Informáticos,5.6. Fuentes de Alimentación,* PSU (Power Supply Unit),0.3384681183104675,0
+,True,False,,,Componentes Informáticos,5.6. Fuentes de Alimentación,* PSU (Power Supply Unit),0.3384681183104675,0
+,True,False,,,Componentes Informáticos,5.6. Fuentes de Alimentación,* PSU (Power Supply Unit),0.46177447732997656,0
+,True,False,,,Componentes Informáticos,5.6. Fuentes de Alimentación,* PSU (Power Supply Unit),0.4510054550393389,0
+,True,False,,,Componentes Informáticos,5.6. Fuentes de Alimentación,* PSU (Power Supply Unit),0.46177447732997656,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* All-in-One,0.20322191602615536,0
+,True,False,,,Componentes Informáticos,5.6. Fuentes de Alimentación,* PSU (Power Supply Unit),0.27223975996652205,0
+,True,False,,,Componentes Informáticos,5.6. Fuentes de Alimentación,* PSU (Power Supply Unit),0.4413273975710685,0
+,True,False,,,Componentes Informáticos,5.6. Fuentes de Alimentación,* PSU (Power Supply Unit),0.24307082007859168,0
+,True,False,,,Componentes Informáticos,5.6. Fuentes de Alimentación,* PSU (Power Supply Unit),0.4386610886890257,0
+,True,False,,,Materiales de Oficina,10.2. Materiales de Escritura,* Bolígrafo,0.3292971063741227,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Antenas Wi-Fi,0.3722839691720611,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* All-in-One,0.20322191602615536,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* All-in-One,0.20322191602615536,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Materiales de Oficina,10.1. Papelería,* Papel A4,0.2008893791036863,0
+,True,False,,,Materiales de Oficina,10.1. Papelería,* Papel A4,0.1892595174275815,0
+,True,False,,,Impresoras y Consumibles,7.4. Impresoras Comunes y Multifuncionales,* Chorro de Tinta Continuo,0.20287951463483433,0
+,True,False,,,Licenciamiento y Servicios en la Nube,4.2. Servicios Microsoft 365,* SharePoint Online,0.2490762730710461,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,"* Cables de Red (UTP, FTP)",0.3494535496347866,0
+,True,False,,,Lentes,8.3. Consumibles Fotográficos,* Tarjetas de Memoria para Cámaras Digitales,0.18011882279681307,0
+,True,False,,,Lentes,8.3. Consumibles Fotográficos,* Tarjetas de Memoria para Cámaras Digitales,0.18011882279681307,0
+,True,False,,,Materiales de Oficina,10.1. Papelería,* Papel A4,0.21797345034177426,0
+,True,False,,,Componentes Informáticos,5.2. Tarjetas Gráficas,* NVIDIA,0.1990420008461242,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* Estaciones de Trabajo,0.2205161445880717,0
+,True,False,,,Impresoras y Consumibles,7.4. Impresoras Comunes y Multifuncionales,* Láser,0.29917128451420455,0
+,True,False,,,Componentes Informáticos,5.5. Almacenamiento,* HDD (SATA),0.4396222944670934,0
+,True,False,,,Componentes Informáticos,5.5. Almacenamiento,* HDD (SATA),0.4396222944670934,0
+,True,False,,,Impresoras y Consumibles,7.5. Consumibles para Impresoras,* Toner,0.35465630191904285,0
+,True,False,,,Impresoras y Consumibles,7.5. Consumibles para Impresoras,* Toner,0.3852124933548012,0
+,True,False,,,Repuestos y Accesorios,6.2. Repuestos para Impresoras,* Rodillos de Transferencia,0.24844566557368605,0
+,True,False,,,Impresoras y Consumibles,7.5. Consumibles para Impresoras,* Toner,0.35924828257792435,0
+,True,False,,,Impresoras y Consumibles,7.4. Impresoras Comunes y Multifuncionales,* Láser,0.27232305136607016,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Antenas Wi-Fi,0.36553372013167146,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Lentes,8.3. Consumibles Fotográficos,* Tarjetas de Memoria para Cámaras Digitales,0.27641439192946854,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Licenciamiento y Servicios en la Nube,4.3. Microsoft Azure,* Almacenamiento en la Nube,0.3885510473202556,0
+,True,False,,,Licenciamiento y Servicios en la Nube,4.3. Microsoft Azure,* Almacenamiento en la Nube,0.4186944615004659,0
+,True,False,,,Licenciamiento y Servicios en la Nube,4.3. Microsoft Azure,* Almacenamiento en la Nube,0.4839631883886426,0
+,True,False,,,Repuestos y Accesorios,6.2. Repuestos para Impresoras,* Cartuchos de Tinta y Toner,0.2879021843835857,0
+,True,False,,,Componentes Informáticos,5.5. Almacenamiento,* HDD (SATA),0.35301588697764547,0
+,True,False,,,Componentes Informáticos,5.5. Almacenamiento,* HDD (SATA),0.35301588697764547,0
+,True,False,,,Componentes Informáticos,5.5. Almacenamiento,* HDD (SATA),0.35301588697764547,0
+,True,False,,,Repuestos y Accesorios,6.1. Repuestos para Laptops y PCs,* Pantallas LCD/LED,0.31370066604477637,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,"* Cables de Red (UTP, FTP)",0.3014910925506235,0
+,True,False,,,Componentes Informáticos,5.5. Almacenamiento,* HDD (SATA),0.26678352390828575,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Lentes,8.3. Consumibles Fotográficos,* Tarjetas de Memoria para Cámaras Digitales,0.23379442581506266,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Impresoras y Consumibles,7.5. Consumibles para Impresoras,* Toner,0.32762040452461955,0
+,True,False,,,Impresoras y Consumibles,7.5. Consumibles para Impresoras,* Toner,0.32762040452461955,0
+,True,False,,,Impresoras y Consumibles,7.5. Consumibles para Impresoras,* Toner,0.2333635787305286,0
+,True,False,,,Licenciamiento y Servicios en la Nube,4.2. Servicios Microsoft 365,* OneDrive for Business,0.2289843463733302,0
+,True,False,,,Materiales de Oficina,10.2. Materiales de Escritura,* Bolígrafo,0.22401378766333396,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* All-in-One,0.390422097744256,0
+,True,False,,,Licenciamiento y Servicios en la Nube,4.3. Microsoft Azure,* Servicios de IA,0.37053624195472384,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* All-in-One,0.413018288770282,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* Small From Factor,0.35565044278788965,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* Small From Factor,0.35565044278788965,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* Small From Factor,0.35565044278788965,0
+,True,False,,,Repuestos y Accesorios,6.1. Repuestos para Laptops y PCs,* Pantallas LCD/LED,0.2258130211620394,0
+,True,False,,,Impresoras y Consumibles,7.4. Impresoras Comunes y Multifuncionales,* Chorro de Tinta Continuo,0.26647292227157143,0
+,True,False,,,Componentes Informáticos,5.4. Memorias RAM,* DDR4,0.2787018348018697,0
+,True,False,,,Componentes Informáticos,5.5. Almacenamiento,"* SSD (SATA, NVMe)",0.3172851529143909,0
+,True,False,,,Componentes Informáticos,5.4. Memorias RAM,* DDR4,0.27234181846469946,0
+,True,False,,,Componentes Informáticos,5.1. Procesadores,* Intel,0.3131852489001889,0
+,True,False,,,Computadoras y Periféricos,1.1. Laptops,* 2 en 1,0.2494735669807378,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Antenas Wi-Fi,0.32145889847219206,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Antenas Wi-Fi,0.32440207791309167,0
+,True,False,,,Servidores y Almacenamiento,3.3. Almacenamiento,"* Unidades de Disco (HDD, SSD, NVMe)",0.32088972482361056,0
+,True,False,,,Computadoras y Periféricos,1.1. Laptops,* 2 en 1,0.30444413299964007,0
+,True,False,,,Computadoras y Periféricos,1.1. Laptops,* 2 en 1,0.2623704282261044,0
+,True,False,,,Computadoras y Periféricos,1.4. Accesorios de Computadoras,* Micrófonos y Auriculares,0.33163645838119177,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Adaptadores y Repetidores,0.4002825970450914,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.2. Colectores de Datos Portátiles,* PDA (Personal Digital Assistant),0.21742562336581167,0
+,True,False,,,Licenciamiento y Servicios en la Nube,4.3. Microsoft Azure,* Almacenamiento en la Nube,0.31877654174943737,0
+,True,False,,,Componentes Informáticos,5.5. Almacenamiento,* HDD (SATA),0.3754160477339612,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Antenas Wi-Fi,0.33574254394757014,0
+,True,False,,,Gaming,11.3. Periféricos Gaming,* Mouse Pad Gaming,0.2997559708633589,0
+,True,False,,,Servidores y Almacenamiento,3.3. Almacenamiento,"* Unidades de Disco (HDD, SSD, NVMe)",0.2550269556742472,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Repuestos y Accesorios,6.2. Repuestos para Impresoras,* Cabezales de Impresión,0.3267022739527122,0
+,True,False,,,Repuestos y Accesorios,6.2. Repuestos para Impresoras,* Cabezales de Impresión,0.3296622398985069,0
+,True,False,,,Repuestos y Accesorios,6.2. Repuestos para Impresoras,* Cabezales de Impresión,0.3296622398985069,0
+,True,False,,,Repuestos y Accesorios,6.2. Repuestos para Impresoras,* Cabezales de Impresión,0.3296622398985069,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Impresoras y Consumibles,7.5. Consumibles para Impresoras,* Toner,0.35465630191904285,0
+,True,False,,,Impresoras y Consumibles,7.4. Impresoras Comunes y Multifuncionales,* Láser,0.2544066662188005,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Antenas Wi-Fi,0.34372512124384025,0
+,True,False,,,Impresoras y Consumibles,7.4. Impresoras Comunes y Multifuncionales,* Chorro de Tinta Continuo,0.1782965890636038,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Servidores y Almacenamiento,3.1. Servidores,* Blade Servers,0.4244434990302032,0
+,True,False,,,Servidores y Almacenamiento,3.1. Servidores,* Blade Servers,0.4244434990302032,0
+,True,False,,,Impresoras y Consumibles,7.3. Consumibles para Impresoras Térmicas,* Ribbons para Impresoras de Etiquetas,0.25875516856350717,0
+,True,False,,,Componentes Informáticos,5.6. Fuentes de Alimentación,* PSU (Power Supply Unit),0.2050712853156119,0
+,True,False,,,Licenciamiento y Servicios en la Nube,4.1. Licenciamiento Microsoft,* Windows 10/11,0.24661501755147386,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,"* Cables de Red (UTP, FTP)",0.21152935864468306,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Licenciamiento y Servicios en la Nube,4.1. Licenciamiento Microsoft,* Windows 10/11,0.3061314198550905,0
+,True,False,,,Repuestos y Accesorios,6.2. Repuestos para Impresoras,* Cabezales de Impresión,0.2896015827887643,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Licenciamiento y Servicios en la Nube,4.1. Licenciamiento Microsoft,* Windows Server,0.4033457011661364,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Materiales de Oficina,10.2. Materiales de Escritura,* Bolígrafo,0.3216594479198924,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Materiales de Oficina,10.2. Materiales de Escritura,* Bolígrafo,0.3216594479198924,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Servidores y Almacenamiento,3.1. Servidores,* Blade Servers,0.4244434990302032,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Servidores y Almacenamiento,3.1. Servidores,* Blade Servers,0.4244434990302032,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Servidores y Almacenamiento,3.1. Servidores,* Blade Servers,0.4244434990302032,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Servidores y Almacenamiento,3.1. Servidores,* Blade Servers,0.4244434990302032,0
+,True,False,,,Servidores y Almacenamiento,3.1. Servidores,* Blade Servers,0.4244434990302032,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Computadoras y Periféricos,1.1. Laptops,* 2 en 1,0.4839975416841019,0
+,True,False,,,Componentes Informáticos,5.6. Fuentes de Alimentación,* PSU (Power Supply Unit),0.2790139749844993,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Servidores y Almacenamiento,3.1. Servidores,* Blade Servers,0.4244434990302032,0
+,True,False,,,Materiales de Oficina,10.2. Materiales de Escritura,* Bolígrafo,0.3216594479198924,0
+,True,False,,,Impresoras y Consumibles,7.3. Consumibles para Impresoras Térmicas,* Etiquetas Adhesivas,0.21472685777513312,0
+,True,False,,,Impresoras y Consumibles,7.3. Consumibles para Impresoras Térmicas,* Rollos de Papel Térmico,0.3715788965410387,0
+,True,False,,,Impresoras y Consumibles,7.3. Consumibles para Impresoras Térmicas,* Etiquetas Adhesivas,0.28068744160437126,0
+,True,False,,,Impresoras y Consumibles,7.4. Impresoras Comunes y Multifuncionales,* Chorro de Tinta Continuo,0.21150293581659244,0
+,True,False,,,Impresoras y Consumibles,7.4. Impresoras Comunes y Multifuncionales,* Chorro de Tinta Continuo,0.1782965890636038,0
+,True,False,,,Servidores y Almacenamiento,3.1. Servidores,* Blade Servers,0.4244434990302032,0
+,True,False,,,Impresoras y Consumibles,7.4. Impresoras Comunes y Multifuncionales,* Chorro de Tinta Continuo,0.21150293581659244,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.24401274372498233,0
+,True,False,,,Repuestos y Accesorios,6.2. Repuestos para Impresoras,* Cabezales de Impresión,0.25793534188922307,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* All-in-One,0.4590565692291207,0
+,True,False,,,Computadoras y Periféricos,1.1. Laptops,* 2 en 1,0.4120117348390882,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Antenas Wi-Fi,0.3857395910402237,0
+,True,False,,,Computadoras y Periféricos,1.1. Laptops,* 2 en 1,0.35638665175869316,0
+,True,False,,,Computadoras y Periféricos,1.1. Laptops,* 2 en 1,0.35638665175869316,0
+,True,False,,,Computadoras y Periféricos,1.1. Laptops,* 2 en 1,0.35638665175869316,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Antenas Wi-Fi,0.40548681670209535,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Antenas Wi-Fi,0.4111359104041433,0
+,True,False,,,Colectores de Datos,8.2. Colectores de Datos Portátiles,* PDA (Personal Digital Assistant),0.3795450219072834,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Computadoras y Periféricos,1.1. Laptops,* 2 en 1,0.4613249854207369,0
+,True,False,,,Computadoras y Periféricos,1.1. Laptops,* 2 en 1,0.3872754495689023,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Impresoras y Consumibles,7.5. Consumibles para Impresoras,* Toner,0.42127680478776103,0
+,True,False,,,Impresoras y Consumibles,7.5. Consumibles para Impresoras,* Toner,0.42127680478776103,0
+,True,False,,,Impresoras y Consumibles,7.5. Consumibles para Impresoras,* Toner,0.42127680478776103,0
+,True,False,,,Impresoras y Consumibles,7.5. Consumibles para Impresoras,* Toner,0.42127680478776103,0
+,True,False,,,Computadoras y Periféricos,1.4. Accesorios de Computadoras,* Micrófonos y Auriculares,0.37735207020619954,0
+,True,False,,,Lentes,8.3. Consumibles Fotográficos,* Fundas y Mochilas para Cámaras,0.28732757075408344,0
+,True,False,,,Computadoras y Periféricos,1.4. Accesorios de Computadoras,* Micrófonos y Auriculares,0.4168199874575795,0
+,True,False,,,Computadoras y Periféricos,1.1. Laptops,* 2 en 1,0.2596110809524186,0
+,True,False,,,Impresoras y Consumibles,7.4. Impresoras Comunes y Multifuncionales,* Láser,0.24475899461660122,0
+,True,False,,,Impresoras y Consumibles,7.4. Impresoras Comunes y Multifuncionales,* Chorro de Tinta Continuo,0.3140412335425939,0
+,True,False,,,Impresoras y Consumibles,7.4. Impresoras Comunes y Multifuncionales,* Chorro de Tinta Continuo,0.3140412335425939,0
+,True,False,,,Impresoras y Consumibles,7.2. Impresoras Térmicas de Rollo,* Impresoras de Boletas,0.20933843236632582,0
+,True,False,,,Impresoras y Consumibles,7.2. Impresoras Térmicas de Rollo,* Impresoras de Boletas,0.20933843236632582,0
+,True,False,,,Impresoras y Consumibles,7.4. Impresoras Comunes y Multifuncionales,* Chorro de Tinta Continuo,0.3140412335425939,0
+,True,False,,,Impresoras y Consumibles,7.4. Impresoras Comunes y Multifuncionales,* Chorro de Tinta Continuo,0.3140412335425939,0
+,True,False,,,Impresoras y Consumibles,7.4. Impresoras Comunes y Multifuncionales,* Chorro de Tinta Continuo,0.3140412335425939,0
+,True,False,,,Impresoras y Consumibles,7.4. Impresoras Comunes y Multifuncionales,* Chorro de Tinta Continuo,0.3140412335425939,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Impresoras y Consumibles,7.4. Impresoras Comunes y Multifuncionales,* Chorro de Tinta Continuo,0.3140412335425939,0
+,True,False,,,Impresoras y Consumibles,7.4. Impresoras Comunes y Multifuncionales,* Chorro de Tinta Continuo,0.3140412335425939,0
+,True,False,,,Impresoras y Consumibles,7.4. Impresoras Comunes y Multifuncionales,* Chorro de Tinta Continuo,0.3140412335425939,0
+,True,False,,,Impresoras y Consumibles,7.4. Impresoras Comunes y Multifuncionales,* Láser,0.31089201588475013,0
+,True,False,,,Impresoras y Consumibles,7.4. Impresoras Comunes y Multifuncionales,* Láser,0.2544066662188005,0
+,True,False,,,Impresoras y Consumibles,7.4. Impresoras Comunes y Multifuncionales,* Láser,0.2544066662188005,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Adaptadores y Repetidores,0.3420680352934788,0
+,True,False,,,Licenciamiento y Servicios en la Nube,4.3. Microsoft Azure,* Bases de Datos,0.35408909525719173,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Componentes Informáticos,5.5. Almacenamiento,* HDD (SATA),0.36877996547548236,0
+,True,False,,,Componentes Informáticos,5.5. Almacenamiento,* HDD (SATA),0.36877996547548236,0
+,True,False,,,Componentes Informáticos,5.5. Almacenamiento,* HDD (SATA),0.36877996547548236,0
+,True,False,,,Servidores y Almacenamiento,3.3. Almacenamiento,"* Unidades de Disco (HDD, SSD, NVMe)",0.28492853803848833,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Computadoras y Periféricos,1.4. Accesorios de Computadoras,* Micrófonos y Auriculares,0.4981338678796275,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Antenas Wi-Fi,0.32227679956717664,0
+,True,False,,,Impresoras y Consumibles,7.4. Impresoras Comunes y Multifuncionales,* Láser,0.38705371462202526,0
+,True,False,,,Computadoras y Periféricos,1.1. Laptops,* 2 en 1,0.28240145144094486,0
+,True,False,,,Lentes,8.3. Consumibles Fotográficos,* Tarjetas de Memoria para Cámaras Digitales,0.3222875031350812,0
+,True,False,,,Lentes,8.3. Consumibles Fotográficos,* Tarjetas de Memoria para Cámaras Digitales,0.3222875031350812,0
+,True,False,,,Lentes,8.3. Consumibles Fotográficos,* Tarjetas de Memoria para Cámaras Digitales,0.29175126182954,0
+,True,False,,,Componentes Informáticos,5.1. Procesadores,* Intel,0.2633242800721516,0
+,True,False,,,Componentes Informáticos,5.1. Procesadores,* Intel,0.2633242800721516,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* All-in-One,0.3495783777129444,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Antenas Wi-Fi,0.2711571738481365,0
+,True,False,,,Servidores y Almacenamiento,3.3. Almacenamiento,"* Unidades de Disco (HDD, SSD, NVMe)",0.2752793808623048,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Computadoras y Periféricos,1.1. Laptops,* 2 en 1,0.25834438605007476,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Antenas Wi-Fi,0.3845626890443717,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Lentes,8.3. Consumibles Fotográficos,* Tarjetas de Memoria para Cámaras Digitales,0.35732100048645293,0
+,True,False,,,Gaming,11.3. Periféricos Gaming,* Mouse Pad Gaming,0.33151179157658395,0
+,True,False,,,Licenciamiento y Servicios en la Nube,4.2. Servicios Microsoft 365,* Microsoft Teams,0.3704031863117565,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* Estaciones de Trabajo,0.20073739441098162,0
+,True,False,,,Impresoras y Consumibles,7.5. Consumibles para Impresoras,* Toner,0.35465630191904285,0
+,True,False,,,Impresoras y Consumibles,7.5. Consumibles para Impresoras,* Toner,0.35465630191904285,0
+,True,False,,,Impresoras y Consumibles,7.5. Consumibles para Impresoras,* Toner,0.35465630191904285,0
+,True,False,,,Impresoras y Consumibles,7.5. Consumibles para Impresoras,* Toner,0.35465630191904285,0
+,True,False,,,Impresoras y Consumibles,7.5. Consumibles para Impresoras,* Toner,0.35465630191904285,0
+,True,False,,,Repuestos y Accesorios,6.1. Repuestos para Laptops y PCs,* Pantallas LCD/LED,0.2258130211620394,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Servidores y Almacenamiento,3.3. Almacenamiento,* NAS (Network Attached Storage),0.309142789901797,0
+,True,False,,,Componentes Informáticos,5.4. Memorias RAM,* DDR4,0.27408312012361113,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,"* Cables de Red (UTP, FTP)",0.28284972297352523,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Impresoras y Consumibles,7.2. Impresoras Térmicas de Rollo,* Impresoras de Boletas,0.20933843236632582,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* All-in-One,0.3307460239450475,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Antenas Wi-Fi,0.2387258938596106,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Antenas Wi-Fi,0.21324136626200663,0
+,True,False,,,Componentes Informáticos,5.1. Procesadores,* Intel,0.2800822682309822,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Antenas Wi-Fi,0.3857395910402237,0
+,True,False,,,Servidores y Almacenamiento,3.3. Almacenamiento,* NAS (Network Attached Storage),0.2099720857810006,0
+,True,False,,,Servidores y Almacenamiento,3.3. Almacenamiento,* NAS (Network Attached Storage),0.2099720857810006,0
+,True,False,,,Redes y Comunicaciones,2.3. Accesorios de Redes,* Antenas Wi-Fi,0.21324136626200663,0
+,True,False,,,Computadoras y Periféricos,1.2. PCs de Escritorio,* All-in-One,0.390422097744256,0
+,True,False,,,Materiales de Oficina,10.2. Materiales de Escritura,* Bolígrafo,0.6059269956272265,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Gaming,11.1. Consolas y Juegos,* Nintendo Switch,0.23776354518605264,0
+,True,False,,,Componentes Informáticos,5.6. Fuentes de Alimentación,* PSU (Power Supply Unit),0.43302071794953617,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Materiales de Oficina,10.1. Papelería,* Papel A4,0.2942414651851397,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Impresoras y Consumibles,7.4. Impresoras Comunes y Multifuncionales,* Láser,0.2298536579505913,0
+,True,False,,,Impresoras y Consumibles,7.4. Impresoras Comunes y Multifuncionales,* Láser,0.2544066662188005,0
+,True,False,,,Gaming,11.1. Consolas y Juegos,* Nintendo Switch,0.47019634347560063,0
+,True,False,,,Gaming,11.1. Consolas y Juegos,* Nintendo Switch,0.6082799572830048,0
+,True,False,,,Gaming,11.1. Consolas y Juegos,* Nintendo Switch,0.39418675759522764,0
+,True,False,,,Gaming,11.1. Consolas y Juegos,* Nintendo Switch,0.574985985655672,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Gaming,11.1. Consolas y Juegos,* Nintendo Switch,0.5859133907151289,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Impresoras y Consumibles,7.3. Consumibles para Impresoras Térmicas,* Rollos de Papel Térmico,0.299218857763625,0
+,True,False,,,Impresoras y Consumibles,7.3. Consumibles para Impresoras Térmicas,* Rollos de Papel Térmico,0.3055182382642292,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Lentes,8.3. Consumibles Fotográficos,* Baterías y Cargadores,0.30457185810033105,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
+,True,False,,,Lentes,8.3. Consumibles Fotográficos,* Baterías y Cargadores,0.30457185810033105,0
+,True,False,,,Colectores de Datos,8.1. Lectores de Códigos de Barras,* Lectores 1D y 2D,0.0,0
